@@ -1,0 +1,9 @@
+.RatingComponent span {
+    font-size: 60px; 
+    color: #ffffff; 
+    cursor: pointer;
+  }
+  
+  .RatingComponent span.selected {
+    color:  #ff9900; 
+  }
